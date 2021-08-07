@@ -1,4 +1,4 @@
-- 👋 Bem vindo! Eu sou o César Ferreira.
+- 👋 Bem vindo! Meu nome é César Ferreira.
 - 👨🏼‍🎓 Estudante de Engenharia da Computação
 - 🏫 Universidade Federal de Itajubá (UNIFEI)
 
