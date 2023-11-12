@@ -1,6 +1,7 @@
 - 👋 Bem vindo! Meu nome é César Ferreira.
-- 👨🏼‍🎓 Estudante de Engenharia da Computação
+- 👨🏼‍🎓 Graduado em Engenharia da Computação
 - 🏫 Universidade Federal de Itajubá (UNIFEI)
+- ✈️ Engenheiro de desenvolvimento de produto - EMBRAER
 
 
  <!-- <div>
